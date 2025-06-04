@@ -5,3 +5,8 @@ markdown
 google-generativeai
 google-genai
 duckduckgo-search
+pdfplumber
+pdfminer.six
+charset-normalizer
+openai
+requests
